@@ -11,4 +11,7 @@ class Pipeline:
 
 
 class PipelineFile:
-    pass
+    extension = ".unp"
+
+    def __init__(self):
+        pass
